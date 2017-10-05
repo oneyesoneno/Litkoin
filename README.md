@@ -46,6 +46,7 @@ listen=1
 port=10333
 rpcport=10332
 addnode=80.211.128.118
+addnode=80.211.235.208
 ```
 
 
