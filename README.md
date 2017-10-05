@@ -1,9 +1,9 @@
 Litkoin pohon integrasi/staging
 ================================
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Litecoin Developers
-Copyright (c) 2017-20xx Litkoin Developers
+- Copyright (c) 2009-2014 Bitcoin Developers
+- Copyright (c) 2011-2014 Litecoin Developers
+- Copyright (c) 2017-20xx Litkoin Developers
 
 What is Litkoin?
 ----------------
@@ -26,7 +26,30 @@ Ninja Launch 4 Oktober 2017
 - Prelaunch Tahap 1 : 5.000 LTK rewards per block ( < 5000 block)
 - Prelaunch Tahap 2 : 2.500 LTK rewards per block ( < 10000 block)
 
-			
+		
+
+Mining
+-------------------
+- QT Wallet: Run - Help - Console - ketik: Setgenerate true 1
+- GPU Mining: Gunakan CCminer/SGminer
+
+Conf Files (litkoind.exe)
+
+```
+rpcuser=useragan
+rpcpassword=passwordagan
+rpcallowip=127.0.0.1
+daemon=1
+server=1
+listen=1
+port=10333
+rpcport=10332
+addnode=80.211.128.118
+
+```
+
+
+		
 Roadmap Development
 -------------------
 
