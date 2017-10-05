@@ -1406,8 +1406,8 @@ Address: %4
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. Kk25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</source>
-        <translation>הכתובת שאליה ישלח התשלום (למשל Kk25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</translation>
+        <source>The address to send the payment to (e.g. 8k25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</source>
+        <translation>הכתובת שאליה ישלח התשלום (למשל 8k25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -1447,8 +1447,8 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Litkoin address (e.g. Kk25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</source>
-        <translation>הכנס כתובת לייטקוין (למשל Kk25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</translation>
+        <source>Enter a Litkoin address (e.g. 8k25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</source>
+        <translation>הכנס כתובת לייטקוין (למשל 8k25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</translation>
     </message>
 </context>
 <context>
@@ -1470,8 +1470,8 @@ Address: %4
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. Kk25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</source>
-        <translation>הכתובת איתה לחתום על ההודעה (למשל Kk25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</translation>
+        <source>The address to sign the message with (e.g. 8k25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</source>
+        <translation>הכתובת איתה לחתום על ההודעה (למשל 8k25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1543,8 +1543,8 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. Kk25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</source>
-        <translation>הכתובת איתה ההודעה נחתמה (למשל Kk25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</translation>
+        <source>The address the message was signed with (e.g. 8k25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</source>
+        <translation>הכתובת איתה ההודעה נחתמה (למשל 8k25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -1564,8 +1564,8 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Litkoin address (e.g. Kk25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</source>
-        <translation>הכנס כתובת לייטקוין (למשל Kk25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</translation>
+        <source>Enter a Litkoin address (e.g. 8k25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</source>
+        <translation>הכנס כתובת לייטקוין (למשל 8k25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</translation>
     </message>
     <message>
         <location line="-2"/>

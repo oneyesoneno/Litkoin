@@ -1407,8 +1407,8 @@ Adres: %4
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. Kk25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</source>
-        <translation>Het adres waaraan u wilt betalen  (bijv. Kk25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</translation>
+        <source>The address to send the payment to (e.g. 8k25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</source>
+        <translation>Het adres waaraan u wilt betalen  (bijv. 8k25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -1448,8 +1448,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Litkoin address (e.g. Kk25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</source>
-        <translation>Vul een Litkoinadres in (bijv. Kk25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</translation>
+        <source>Enter a Litkoin address (e.g. 8k25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</source>
+        <translation>Vul een Litkoinadres in (bijv. 8k25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</translation>
     </message>
 </context>
 <context>
@@ -1471,8 +1471,8 @@ Adres: %4
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. Kk25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</source>
-        <translation>Het adres om het bericht mee te ondertekenen (Vb.: Kk25qmrCnU1nQwNMCwFGtzcQTJh32tMe58).</translation>
+        <source>The address to sign the message with (e.g. 8k25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</source>
+        <translation>Het adres om het bericht mee te ondertekenen (Vb.: 8k25qmrCnU1nQwNMCwFGtzcQTJh32tMe58).</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1544,8 +1544,8 @@ Adres: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. Kk25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</source>
-        <translation>Het adres waarmee bet bericht was ondertekend (Vb.: Kk25qmrCnU1nQwNMCwFGtzcQTJh32tMe58).</translation>
+        <source>The address the message was signed with (e.g. 8k25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</source>
+        <translation>Het adres waarmee bet bericht was ondertekend (Vb.: 8k25qmrCnU1nQwNMCwFGtzcQTJh32tMe58).</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -1565,8 +1565,8 @@ Adres: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Litkoin address (e.g. Kk25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</source>
-        <translation>Vul een Litkoinadres in (bijv. Kk25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</translation>
+        <source>Enter a Litkoin address (e.g. 8k25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</source>
+        <translation>Vul een Litkoinadres in (bijv. 8k25qmrCnU1nQwNMCwFGtzcQTJh32tMe58)</translation>
     </message>
     <message>
         <location line="-2"/>
