@@ -23,8 +23,8 @@ Ninja Launch 4 Oktober 2017
 -------
 
 - Premined  2.000.000 LTK
-- Prelaunch 5.000     LTK rewards per block ( < 5000 block)
-            2.500    LTK rewards per block ( < 10000 block)
+- Prelaunch Tahap 1 : 5.000 LTK rewards per block ( < 5000 block)
+- Prelaunch Tahap 2 : 2.500 LTK rewards per block ( < 10000 block)
 
 			
 Roadmap Development
