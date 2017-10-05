@@ -33,7 +33,7 @@ Mining
 - QT Wallet: Run - Help - Debug - Console - ketik: setgenerate true 1
 - GPU Mining: Gunakan CCminer/SGminer
 
-Conf Files (C:\Users\(Nama-Pc-Agan)\AppData\Roaming\Litkoin)
+Litkoin.conf (C:\Users\(Nama-Pc-Agan)\AppData\Roaming\Litkoin)
 
 ```
 rpcuser=useragan
