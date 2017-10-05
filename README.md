@@ -30,10 +30,10 @@ Ninja Launch 4 Oktober 2017
 
 Mining
 -------------------
-- QT Wallet: Run - Help - Console - ketik: Setgenerate true 1
+- QT Wallet: Run - Help - Debug - Console - ketik: setgenerate true 1
 - GPU Mining: Gunakan CCminer/SGminer
 
-Conf Files (litkoind.exe)
+Conf Files (C:\Users\(Nama-Pc-Agan)\AppData\Roaming\Litkoin)
 
 ```
 rpcuser=useragan
@@ -45,7 +45,6 @@ listen=1
 port=10333
 rpcport=10332
 addnode=80.211.128.118
-
 ```
 
 
