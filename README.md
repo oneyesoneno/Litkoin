@@ -1,7 +1,6 @@
 Litkoin pohon integrasi/staging
 ================================
-![alt text](https://imgur.com/a/lQZEL)
-
+![Logo](https://i.imgur.com/YPlzGBo.jpg)
 - Copyright (c) 2009-2014 Bitcoin Developers
 - Copyright (c) 2011-2014 Litecoin Developers
 - Copyright (c) 2017-20xx Litkoin Developers
