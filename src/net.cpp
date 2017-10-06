@@ -1174,6 +1174,7 @@ void MapPort(bool)
 // The second name should resolve to a list of seed addresses.
 static const char *strMainNetDNSSeed[][2] = {
     {"litkoin.com", "80.211.128.118"},
+	{"litkoin.com", "80.211.235.208"},
     {NULL, NULL}
 };
 
