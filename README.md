@@ -1,12 +1,13 @@
 Litkoin pohon integrasi/staging
 ================================
-![Logo](https://i.imgur.com/YPlzGBo.jpg)
+
 - Copyright (c) 2009-2014 Bitcoin Developers
 - Copyright (c) 2011-2014 Litecoin Developers
 - Copyright (c) 2017-20xx Litkoin Developers
 
 What is Litkoin?
 ----------------
+![Logo](https://i.imgur.com/YPlzGBo.jpg)
 
 Litkoin ialah versi paling awal Litecoin menggunakan scrypt sebagai proof-of-work algorithm.
  - Total max supply 1 Milyar
@@ -19,6 +20,7 @@ Litkoin ialah versi paling awal Litecoin menggunakan scrypt sebagai proof-of-wor
  - Retargeting block 2.5 menit
 
 
+ 
 Ninja Launch 4 Oktober 2017
 -------
 
