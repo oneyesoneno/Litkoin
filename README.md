@@ -59,16 +59,16 @@ Roadmap Development
 -------------------
 
 Code LTK ialah bersifat open source sehingga ia dikembangkan secara bersama oleh para voluntier. Tahap pertama akan lebih fokus pada infrastruktur dasar.
-- Pools (sudah ada)
-- Block Explorer
-- Website
-- Linux Wallet (soon)
-- Web Wallet
-- Mobile Wallet
-- Medsos
-- Forums
-- Wiki Github
-- dllnya...
+- [x] Pools 
+- [ ] Block Explorer
+- [ ] Website
+- [ ] Linux Wallet (soon)
+- [ ] Web Wallet
+- [ ] Mobile Wallet
+- [ ] Medsos (soon)
+- [ ] Forums
+- [ ] Wiki Github
+- [ ] dllnya...
 
 
 Usefull Links
