@@ -56,7 +56,17 @@ addnode=80.211.235.208
 Roadmap Development
 -------------------
 
-Coming Soon
+Code LTK ialah bersifat open source sehingga ia dikembangkan secara bersama oleh para voluntier. Tahap pertama akan lebih fokus pada infrastruktur dasar.
+- Pools (sudah ada)
+- Block Explorer
+- Website
+- Linux Wallet (soon)
+- Web Wallet
+- Mobile Wallet
+- Medsos
+- Forums
+- dllnya...
+
 
 
 
