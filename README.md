@@ -34,7 +34,9 @@ Mining
 -------------------
 - QT Wallet: Run - Help - Debug - Console - ketik: setgenerate true 1
 - GPU Mining: Gunakan CCminer/SGminer
-- Pools: http://ladang.terrano.id:8080/ (credit to: Agan Lukman)
+- Pools: 
+  - http://ladang.terrano.id:8080/ (credit to: Lukman)
+  - http://waroenkcryptopool.com/ (credit to: Hendra)
 
 Litkoin.conf (C:\Users\(Nama-Pc-Agan)\AppData\Roaming\Litkoin)
 
