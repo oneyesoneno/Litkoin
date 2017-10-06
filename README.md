@@ -70,6 +70,7 @@ Code LTK ialah bersifat open source sehingga ia dikembangkan secara bersama oleh
 
 Usefull Links
 -------------------
-- Giveaway Telegram Group by MIRZADA [a link](https://t.me/joinchat/E1h-PQ9mg2toSQ5DgWQrQw)
+
+Coming soon
 
 
