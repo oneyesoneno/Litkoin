@@ -71,9 +71,8 @@ Code LTK ialah bersifat open source sehingga ia dikembangkan secara bersama oleh
 - [ ] dllnya...
 
 
-Usefull Links
+Useful Links
 -------------------
 
 Coming soon
-
 
