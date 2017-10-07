@@ -11,7 +11,7 @@ What is Litkoin?
 
 Litkoin ialah versi paling awal Litecoin menggunakan scrypt sebagai proof-of-work algorithm.
  - Total max supply 1 Milyar
- - 500 LTK rewards per block (<4tahun)
+ - 500 LTK rewards per block
  - 30 detik per block time
  - Rewards terjadi halving setiap 840k block (~1 tahunan)
  - Fee transaksi  ~0.001 LTK
