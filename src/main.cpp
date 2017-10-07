@@ -1100,8 +1100,8 @@ int64 static GetBlockValue(int nHeight, int64 nFees)
     {
         nSubsidy = 2500 * COIN;
     }
-    // Subsidy is cut in half every 840000 blocks, which will occur approximately every 4 years
-    nSubsidy >>= (nHeight / 840000); // Litkoin: 840k blocks in ~4 years
+    // Subsidy is cut in half every 840000 blocks, which will occur approximately every 1 years
+    nSubsidy >>= (nHeight / 840000); // Litkoin: 840k blocks in ~1 years
 
     return nSubsidy + nFees;
 }
