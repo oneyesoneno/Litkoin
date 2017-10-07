@@ -13,7 +13,7 @@ Litkoin ialah versi paling awal Litecoin menggunakan scrypt sebagai proof-of-wor
  - Total max supply 1 Milyar
  - 500 LTK rewards per block (<4tahun)
  - 30 detik per block time
- - Rewards Halving tiap 4 tahun dalam 840k block
+ - Rewards terjadi halving setiap 840k block (~1 tahunan)
  - Fee transaksi  ~0.001 LTK
  - Konfirmasi transaksi 6 block
  - Koin Maturity 20 block
