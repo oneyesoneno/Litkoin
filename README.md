@@ -37,6 +37,7 @@ Mining
 - Pools: 
   - http://ladang.terrano.id:8080/ (credit to: Lukman)
   - http://waroenkcryptopool.com/ (credit to: Hendra)
+  - http://pool.litkoin.net/ (credit to: Hendra)
 
 Litkoin.conf (C:\Users\(Nama-Pc-Agan)\AppData\Roaming\Litkoin)
 
@@ -60,13 +61,13 @@ Roadmap Development
 
 Code LTK ialah bersifat open source sehingga ia dikembangkan secara bersama oleh para voluntier. Tahap pertama akan lebih fokus pada infrastruktur dasar.
 - [x] Pools 
-- [ ] Block Explorer
+- [x] Block Explorer
 - [ ] Website
 - [ ] Linux Wallet (soon)
 - [ ] Web Wallet
 - [ ] Mobile Wallet
-- [ ] Medsos (soon)
-- [ ] Forums
+- [x] Medsos (soon)
+- [x] Forums
 - [ ] Wiki Github
 - [ ] dllnya...
 
