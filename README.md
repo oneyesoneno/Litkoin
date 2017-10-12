@@ -36,8 +36,8 @@ Mining
 - GPU Mining: Gunakan CCminer/SGminer
 - Pools: 
   - http://ladang.terrano.id:8080/ (credit to: Lukman)
-  - http://waroenkcryptopool.com/ (credit to: Hendra)
   - http://pool.litkoin.net/ (credit to: Hendra)
+  - http://waroenkcryptopool.com/ (credit to: Hendra)
 
 Litkoin.conf (C:\Users\(Nama-Pc-Agan)\AppData\Roaming\Litkoin)
 
