@@ -52,6 +52,8 @@ port=10333
 rpcport=10332
 addnode=80.211.128.118
 addnode=80.211.235.208
+addnode=128.199.220.31
+addnode=45.76.110.53
 ```
 
 
@@ -62,11 +64,11 @@ Roadmap Development
 Code LTK ialah bersifat open source sehingga ia dikembangkan secara bersama oleh para voluntier. Tahap pertama akan lebih fokus pada infrastruktur dasar.
 - [x] Pools 
 - [x] Block Explorer
-- [ ] Website
-- [ ] Linux Wallet (soon)
+- [ ] Website (soon)
+- [x] Linux Wallet
 - [ ] Web Wallet
 - [ ] Mobile Wallet
-- [x] Medsos (soon)
+- [x] Medsos
 - [x] Forums
 - [ ] Wiki Github
 - [ ] dllnya...
