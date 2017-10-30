@@ -1177,7 +1177,7 @@ static const char *strMainNetDNSSeed[][2] = {
     {"litko.in", "80.211.235.208"},
     {"litko.in", "212.237.50.126"},
     {"litko.in", "89.36.208.35"},
-    {"pool.litkoin.net", "192.210.241.28"},
+    {"waroenkcryptopool.com", "192.210.241.28"},
     {"ladang.terrano.id", "45.76.110.53"},
     {NULL, NULL}
 };
