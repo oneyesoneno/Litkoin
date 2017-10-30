@@ -52,8 +52,12 @@ port=10333
 rpcport=10332
 addnode=80.211.128.118
 addnode=80.211.235.208
-addnode=128.199.220.31
+addnode=212.237.50.126
+addnode=89.36.208.35
+addnode=192.210.241.28
 addnode=45.76.110.53
+
+
 ```
 
 
