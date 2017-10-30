@@ -1173,9 +1173,11 @@ void MapPort(bool)
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strMainNetDNSSeed[][2] = {
-    {"litkoin.com", "80.211.128.118"},
-    {"litkoin.com", "80.211.235.208"},
-    {"pool.litkoin.net", "128.199.220.31"},
+    {"litko.in", "80.211.128.118"},
+    {"litko.in", "80.211.235.208"},
+    {"litko.in", "212.237.50.126"},
+    {"litko.in", "89.36.208.35"},
+    {"pool.litkoin.net", "192.210.241.28"},
     {"ladang.terrano.id", "45.76.110.53"},
     {NULL, NULL}
 };
